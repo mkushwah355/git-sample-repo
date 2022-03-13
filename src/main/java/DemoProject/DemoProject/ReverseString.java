@@ -11,7 +11,7 @@ public class ReverseString {
 		System.out.println("Length of name is : " +s3.length);
 		 for (int i = s3.length-1;i>=0; i--) {
 			 s2=s2+s3[i];
-			 		
+			//mkj 		
 		}
 		 System.out.println(s2);
 		
