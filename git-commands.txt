@@ -1,2 +1,2 @@
-git status --------------this command will give the status 
+git status -------------this command will give the status 
 git init
